@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">225150701111005_BayusatyaMuftiMuhammad</string>
+    <string name="nama">Nama</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="nim">NIM</string>
+    <string-array name="nim">
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1006</item>
+        <item>1007</item>
+        <item>1008</item>
+        <item>1009</item>
+    </string-array>
+    <string-array name="nama">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>Mac OS X</item>
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>Symbian</item>
+        <item>Blackberry</item>
+        <item>Sun OS</item>
+        <item>Solaris</item>
+    </string-array>
+
+</resources>
